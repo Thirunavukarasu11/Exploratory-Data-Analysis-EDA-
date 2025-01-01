@@ -2,7 +2,7 @@
 
 Welcome to my Exploratory Data Analysis (EDA) repository! This repository contains a Jupyter Notebook that demonstrates how to use Pandas for data analysis. The notebook covers various EDA techniques like data cleaning, transformation, visualization, and insight generation using Python and Pandas.
 
-## Contents
+## Contents 
 
 - **Introduction to Pandas**: Overview of the Pandas library and its core data structures.
 - **Data Loading**: Instructions on how to load datasets using Pandas (e.g., from CSV, Excel).
